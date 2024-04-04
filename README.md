@@ -1,4 +1,4 @@
-# RelyF
+# Rely
 
 ## Module Display
 ## Module Dynamic
